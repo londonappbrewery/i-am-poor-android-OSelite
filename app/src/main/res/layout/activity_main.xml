@@ -46,6 +46,6 @@
         android:layout_centerHorizontal="true"
         android:text="@string/underText"
         android:textColor="@android:color/black"
-        android:textSize="20sp"
+        android:textSize="21sp"
         android:textStyle="bold" />
 </RelativeLayout>
